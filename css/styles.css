@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+
+header {
+  display: flex;
+  height: 1vh;
+  width: 100%;
+}
+
+h1 {
+  align-self: center;
+  justify-self: center;
+}
